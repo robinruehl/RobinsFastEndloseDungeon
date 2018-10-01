@@ -106,7 +106,7 @@ public class Controller {
     //Knopf vom GUI startet das Spiel hier.
     public void startGame() {
     	System.out.println("GAMESTART");
-    	consoleWrite("-Das Testgelände!-");
+    	consoleWrite("-Das Verlies-");
     	
     	//sollte Gegner im GUI disabln
     	disableEnem();
